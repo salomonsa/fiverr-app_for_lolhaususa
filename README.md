@@ -1,4 +1,4 @@
-To install the program, write in cmd, in the folder where you want to install it: git clone https://github.com/salomonsa/FIVERR-RELACIONES](https://github.com/salomonsa/fiverr-app_for_lolhaususa
+To install the program, write in cmd, in the folder where you want to install it: git clone https://github.com/salomonsa/fiverr-app_for_lolhaususa
 
 IMPORTANT THINGS, READ BEFORE USING THE PROGRAM:
 
